@@ -1,0 +1,16 @@
+* What is Data Structures?
+
+  - It is a way to organize data
+  - After organizing data it becomes easy to process it
+  
+    Example: Unorganized books vs Organized Books in Library <--- Books ||| Data
+    
+* Types of Data Structures:
+ 
+   1. Linear   - Datas are arranged in a sequential Manner. It becomes easy for traversal as it stores sequentially in the memory
+   
+      Example: Arrays, Linked List, Stack , Queue
+      
+   2. Linear   - Datas are arranged in a non-sequential Manner. It becomes bit difficult for traversal as it stores data as multilevel in the memory
+   
+      Example: Tree, Graph
