@@ -1,0 +1,26 @@
+* What is an algorithm?
+
+ - An algorithm is a set of instructions to perform a task or to solve a given problem
+ 
+ - Example: A recipe book with list of recipies which has step by step instructions for preparing food.
+ 
+ - Example Problem: Print average of 3 given numbers
+   
+  - Algorithm for above problem:
+   - Perform sum of 3 numbers
+   - Store it in a variable sum
+   - Divide the sum by 3
+   - Store the value in a variable avg
+   - Print the value stored in avg
+   
+  Solution: 
+   
+  public void findAvg(int a, int b, int c) {
+
+		int sum = a + b + c;
+
+		int avg = sum / 3;
+
+		System.out.println(avg);
+
+	}
