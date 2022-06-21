@@ -11,6 +11,6 @@
    
       Example: Arrays, Linked List, Stack , Queue
       
-   2. Linear   - Datas are arranged in a non-sequential Manner. It becomes bit difficult for traversal as it stores data as multilevel in the memory
+   2. Non-Linear  - Datas are arranged in a non-sequential Manner. It becomes bit difficult for traversal as it stores data as multilevel in the memory
    
       Example: Tree, Graph
